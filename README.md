@@ -12,7 +12,7 @@ Programmer | Traveller | Learner | Gamer
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **oshdahmarasinghe@gmail.com**
+- 📫 How to reach me **oshadhamarasinghe@gmail.com**
 
 
 ### Connect with me:
