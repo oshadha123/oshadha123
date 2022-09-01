@@ -37,7 +37,7 @@ Programmer | Traveller | Learner | Gamer
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Spring boot](https://img.shields.io/badge/-Spring%20boot-05122A?style=flat&logo=spring-boot)&nbsp;
 ![Material Design](https://img.shields.io/badge/-Material%20Design-05122A?style=flat&logo=material-design&logoColor=563D7C)
-![Material UI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=mui&logoColor=563D7C)
+![Material UI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=mui&logoColor=0000FF)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
