@@ -66,5 +66,4 @@ Programmer | Traveller | Learner | Gamer
 
 
 [facebook]: https://facebook.com/oshadha-marasinghe
-<!-- [linkedin]: 
-[telegram]:  -->
+
