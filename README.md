@@ -62,7 +62,7 @@ Programmer | Traveller | Learner | Gamer
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadha123&layout=compact)](https://github.com/oshadha123/github-readme-stats" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oshadha123&show_icons=true&locale=en" alt="Oshadha Marasinghe" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oshadha123&show_icons=true&locale=en" alt="oshadha123" /></p>
 
 
 [facebook]: https://facebook.com/oshadha-marasinghe
